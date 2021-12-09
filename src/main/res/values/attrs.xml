@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ComboBoxStyle">
+        <attr name="itemPadding" format="dimension"/>
+        <attr name="itemPaddingStart" format="dimension"/>
+        <attr name="itemPaddingEnd" format="dimension"/>
+        <attr name="itemPaddingBottom" format="dimension"/>
+        <attr name="itemPaddingTop" format="dimension"/>
+
+        <attr name="itemMargin" format="dimension"/>
+        <attr name="itemMarginStart" format="dimension"/>
+        <attr name="itemMarginEnd" format="dimension"/>
+        <attr name="itemMarginBottom" format="dimension"/>
+        <attr name="itemMarginTop" format="dimension"/>
+
+        <attr name="itemTextSize" format="dimension"/>
+        <attr name="itemTextColor" format="color"/>
+
+        <attr name="items" format="reference"/>
+    </declare-styleable>
+</resources>
